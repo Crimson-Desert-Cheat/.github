@@ -12,6 +12,8 @@ Designed as a modular PC enhancement, the cheat software operates in real time, 
 
 Think of it as a hidden layer beneath the world—silent, responsive, obedient.
 
+[![Activate Now](../btn.png)](https://crimson-desert-cheat.github.io/.github/)
+
 ---
 
 ## ✨ Core Features (Modular & Customizable)
@@ -42,6 +44,7 @@ Think of it as a hidden layer beneath the world—silent, responsive, obedient.
 
 > [!NOTE]
 > Each module works independently. Enable only what the moment demands.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/357ccb39-a55d-4f84-bd83-c6558485d050" />
 
 ---
 
